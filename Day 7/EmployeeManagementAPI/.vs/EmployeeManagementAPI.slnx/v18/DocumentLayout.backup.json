@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\EmployeeManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65FFEFE-8676-4E4F-B392-2894129AFD78}|EmployeeManagementAPI.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\employeemanagementapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65FFEFE-8676-4E4F-B392-2894129AFD78}|EmployeeManagementAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65FFEFE-8676-4E4F-B392-2894129AFD78}|EmployeeManagementAPI.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\employeemanagementapi\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65FFEFE-8676-4E4F-B392-2894129AFD78}|EmployeeManagementAPI.csproj|solutionrelative:models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65FFEFE-8676-4E4F-B392-2894129AFD78}|EmployeeManagementAPI.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\employeemanagementapi\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65FFEFE-8676-4E4F-B392-2894129AFD78}|EmployeeManagementAPI.csproj|solutionrelative:models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65FFEFE-8676-4E4F-B392-2894129AFD78}|EmployeeManagementAPI.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\employeemanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65FFEFE-8676-4E4F-B392-2894129AFD78}|EmployeeManagementAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\EmployeeManagementAPI\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\EmployeeManagementAPI\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:36:48.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\EmployeeManagementAPI\\Models\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\EmployeeManagementAPI\\Models\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "Models\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:36:41.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\EmployeeManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\EmployeeManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:23:25.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwFcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:13:18.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
