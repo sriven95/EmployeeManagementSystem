@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\ClassManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\models\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|solutionrelative:models\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|solutionrelative:models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\models\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|solutionrelative:models\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|solutionrelative:models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE60E79-AAB4-443E-9E60-129DFC85E669}|ClassManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|c:\\work\\.net\\employeemanagementsystem\\day 7\\classmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C98299A-2E07-1F2B-5158-574C202CA28D}|ClassManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UpdateStudentDto.cs",
               "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\ClassManagement\\Models\\UpdateStudentDto.cs",
               "RelativeDocumentMoniker": "Models\\UpdateStudentDto.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentDto.cs",
               "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\ClassManagement\\Models\\StudentDto.cs",
               "RelativeDocumentMoniker": "Models\\StudentDto.cs",
@@ -70,27 +70,27 @@
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\ClassManagement\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAcwGMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwGMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-25T00:01:58.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\ClassManagement\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\ClassManagement\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-24T23:57:10.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\ClassManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -98,12 +98,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T23:54:45.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-24T23:54:45.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 7\\ClassManagement\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-24T23:52:45.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-24T23:52:45.425Z"
             }
           ]
         }
