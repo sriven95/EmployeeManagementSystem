@@ -1,0 +1,15 @@
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\bin\Debug\net8.0\MovieTutorial.exe
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\bin\Debug\net8.0\MovieTutorial.deps.json
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\bin\Debug\net8.0\MovieTutorial.runtimeconfig.json
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\bin\Debug\net8.0\MovieTutorial.dll
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\bin\Debug\net8.0\MovieTutorial.pdb
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\obj\Debug\net8.0\MovieTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\obj\Debug\net8.0\MovieTutorial.AssemblyInfoInputs.cache
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\obj\Debug\net8.0\MovieTutorial.AssemblyInfo.cs
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\obj\Debug\net8.0\MovieTutorial.csproj.CoreCompileInputs.cache
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\obj\Debug\net8.0\MovieTutorial.sourcelink.json
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\obj\Debug\net8.0\MovieTutorial.dll
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\obj\Debug\net8.0\refint\MovieTutorial.dll
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\obj\Debug\net8.0\MovieTutorial.pdb
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\obj\Debug\net8.0\MovieTutorial.genruntimeconfig.cache
+C:\Work\.Net\EmployeeManagementSystem\Day 10\MovieTutorial\obj\Debug\net8.0\ref\MovieTutorial.dll
