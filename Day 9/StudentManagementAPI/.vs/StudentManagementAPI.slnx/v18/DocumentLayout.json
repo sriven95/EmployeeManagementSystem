@@ -38,8 +38,7 @@
               "RelativeToolTip": "Controllers\\ClassesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T19:39:43.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T19:39:43.367Z"
             },
             {
               "$type": "Document",
@@ -64,21 +63,19 @@
               "RelativeToolTip": "Data\\AuthDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T19:11:22.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T19:11:22.973Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StudentManagementAPI",
+              "Title": "StudentManagementAPI.csproj",
               "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 9\\StudentManagementAPI\\StudentManagementAPI.csproj",
               "RelativeDocumentMoniker": "StudentManagementAPI.csproj",
               "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 9\\StudentManagementAPI\\StudentManagementAPI.csproj",
               "RelativeToolTip": "StudentManagementAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-30T19:10:48.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T19:10:48.01Z"
             }
           ]
         }
