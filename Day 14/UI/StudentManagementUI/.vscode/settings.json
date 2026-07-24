@@ -3,9 +3,9 @@
   "github.copilot.inlineSuggest.enable": false,
   "editor.inlineSuggest.enabled": false,
   "editor.quickSuggestions": {
-    "other": false,
+    "other": true,
     "comments": false,
-    "strings": false
+    "strings": true
   },
   "editor.suggestOnTriggerCharacters": false
 }

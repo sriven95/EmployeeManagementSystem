@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Class } from '../../Models/Class';
+import { Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -11,23 +12,23 @@ export class ClassServiceService {
 
   constructor(private http:HttpClient) { }
 
-  getAllClasss(){
+  getAllClasss():Observable<Class[]>{
     return this.http.get<Class[]>(this.apiUrl);
   }
 
-  getClassById(id: number){
+  getClassById(id: string):Observable<Class> {
     return this.http.get<Class>(`${this.apiUrl}/${id}`);
   }
 
-  addClass(ClassData:Class){
+  addClass(ClassData:any):Observable<Class> {
     return this.http.post<Class>(this.apiUrl,ClassData);
   }
 
-  updateClassById(id:number,updatedClass:Class){
+  updateClassById(id:string,updatedClass:any):Observable<Class> {
     return this.http.put<Class>(`${this.apiUrl}/${id}`,updatedClass)
   }
 
-  deleteClassById(id: number){
+  deleteClassById(id: string):  Observable<Class> {
     return this.http.delete<Class>(`${this.apiUrl}/${id}`);
   }
 }
