@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|c:\\work\\.net\\employeemanagementsystem\\day 15\\studentmanagementsystem\\models\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|solutionrelative:models\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|c:\\work\\.net\\employeemanagementsystem\\day 15\\studentmanagementsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|c:\\work\\.net\\employeemanagementsystem\\day 15\\studentmanagementsystem\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|solutionrelative:models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|c:\\work\\.net\\employeemanagementsystem\\day 15\\studentmanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|c:\\work\\.net\\employeemanagementsystem\\day 15\\studentmanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|c:\\work\\.net\\employeemanagementsystem\\day 15\\studentmanagementsystem\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|c:\\work\\.net\\employeemanagementsystem\\day 15\\studentmanagementsystem\\models\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEA4C78-6FF0-4712-9B9B-528FC8C5239D}|StudentManagementSystem.csproj|solutionrelative:models\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T00:03:16.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Models\\UpdateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateDepartmentDto.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Models\\UpdateDepartmentDto.cs",
+              "RelativeToolTip": "Models\\UpdateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T00:18:52.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Models\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Models\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "Models\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T00:13:51.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T00:03:10.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Models\\AddDepartmentDto.cs",
+              "RelativeDocumentMoniker": "Models\\AddDepartmentDto.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Models\\AddDepartmentDto.cs",
+              "RelativeToolTip": "Models\\AddDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T00:03:07.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwFcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T00:00:56.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Work\\.Net\\EmployeeManagementSystem\\Day 15\\StudentManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T23:48:48.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
