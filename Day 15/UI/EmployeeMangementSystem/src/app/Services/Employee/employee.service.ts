@@ -6,21 +6,31 @@ import { Employee } from '../../Models/Employee';
   providedIn: 'root'
 })
 export class EmployeeService {
-  apiUrl: string = 'https://localhost:7233/api/Employee';
+  apiUrl="https://localhost:7233/api/employees";
 
-  constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient) {
+  }
 
-  getAllEmployees() {
+  getAllEmployees(){
     return this.http.get<Employee[]>(this.apiUrl);
   }
 
-  getEmployeeById(id: string) {
-    const url = this.apiUrl + '/' + id;
-    return this.http.get<Employee>(url);
+  getEmployeeById(Id:string){
+    const Url = `${this.apiUrl}/${Id}`;
+    return this.http.get<Employee[]>(Url);
   }
 
-  addEmployee(employee: Employee) {
-    return this.http.post<Employee>(this.apiUrl, employee);
+  addEmployee(EmployeeData:Employee[]){
+    return this.http.post<Employee[]>(this.apiUrl,EmployeeData);
   }
-  
+
+  updateEmployeeById(Id:string,EmployeeData:Employee[]){
+    const Url = `${this.apiUrl}/${Id}`;
+    return this.http.put<Employee[]>(this.apiUrl,EmployeeData);
+  }
+
+   deleteEmployeeById(Id:string){
+    const Url = `${this.apiUrl}/${Id}`;
+    return this.http.delete<Employee[]>(Url);
+  }
 }
